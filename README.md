@@ -7,8 +7,14 @@
 
 ## Install
 
+npm
 ```
-$ npm install --save @fakerjs/domain
+npm install @fakerjs/domain --save-dev
+```
+
+yarn
+```
+yarn add @fakerjs/domain -D
 ```
 
 ## Usage
